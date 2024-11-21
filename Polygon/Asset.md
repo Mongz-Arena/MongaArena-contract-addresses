@@ -4,10 +4,10 @@
 
 > ## ERC-20 Token Staking With APR Reward
 > ### MUC Staking Season 1
-> #### MUC Staking Season 1 - 90 Days 6% APR`0x04A923d2BC082b20E9ce9286447D2497F4aAeA1A`
-> * Pool start timestamp : 1733011200 `2024년 December 1일 Sunday AM 12:00:00 UTC`
-> #### MUC Staking Season 1 - 180 Days 15% APR`0x980A5F692976efcAC7B157b9b2E74B65aB805a22`
-> * Pool start timestamp : 1733011200 `2024년 December 1일 Sunday AM 12:00:00 UTC`
+> #### MUC Staking Season 1 - 90 Days 6% APR`0x1c93f9cE07efF04BEB578Fb4345Dd14765EE19E3`
+> * Pool start timestamp : 1733788800 `2024년 December 10일 Tuesday AM 12:00:00 UTC`
+> #### MUC Staking Season 1 - 180 Days 15% APR`0x832B4f7204BA460F12987D111C7eA35d237a39ED`
+> * Pool start timestamp : 1733788800 `2024년 December 10일 Tuesday AM 12:00:00 UTC`
 
 
 # Testnet (Base sepolia)
