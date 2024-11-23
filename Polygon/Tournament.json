@@ -1,0 +1,12 @@
+{
+  "mainnet": {
+    "Omok": {
+      "Tournament": {
+        "0.9.0": "0xC977022aE0116c74B53b355FD6aCC9791f3ae549"
+      },
+      "Escrow": {
+        "0.9.0": "0x1dF4DB808FD43A867A087D38c01e804E3b3e6f81"
+      }
+    }
+  }
+}
