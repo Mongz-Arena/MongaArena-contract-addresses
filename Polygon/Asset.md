@@ -10,8 +10,21 @@
 > ### MUC Staking Season 1
 > #### MUC Staking Season 1 - 90 Days 6% APR`0x1deA135D623d92cB338715E7F64170ca20b9195B`
 > * Pool start timestamp : 1733788800 `2024년 December 10일 Tuesday AM 12:00:00 UTC`
+> * Lockup : 663,051.01 MUC
+> * Total Reward : 9,809.53 MUC
+
 > #### MUC Staking Season 1 - 180 Days 15% APR`0x93c189143F3B55735428985033251eEf972295c7`
 > * Pool start timestamp : 1733788800 `2024년 December 10일 Tuesday AM 12:00:00 UTC`
+> * Lockup : 17,391,725.8 MUC
+> * Total Reward : 1,286,511.23 MUC
+
+> ### Dual Reward ERC-20 Token Staking
+> #### Dual Reward Staking v1.3.1 MUC to PEACH `0x4cbefc3b75c4bb2a622e1a6a329c67be43382409`
+> * MUC APR 1.5%
+> * PEACH APR 300%
+> #### Dual Reward Staking v1.3.1 MUC to PAPAYA `0x2940f68189439e56fa7f8a0ea296a1343605a084`
+> * MUC APR 2%
+> * PAPAYA APR 10%
 
 > ## Account Mananger
 > * `0x18AC8Eae8f70D4f75f866493bdA4b39f09d62fBe`
