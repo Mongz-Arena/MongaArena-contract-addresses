@@ -21,13 +21,19 @@
 > ### Dual Reward ERC-20 Token Staking
 > #### Dual Reward Staking v1.3.1 MUC to PEACH `0x4cbefc3b75c4bb2a622e1a6a329c67be43382409`
 > * MUC APR 1.5%
-> * PEACH APR 300%
+> * PEACH APR 3%
 > #### Dual Reward Staking v1.3.1 MUC to PAPAYA `0x2940f68189439e56fa7f8a0ea296a1343605a084`
 > * MUC APR 2%
 > * PAPAYA APR 10%
+> #### Dual Reward Staking v1.3.1 MUC to BANANA `0xd9eA0365B50F957Ca601071E9aA1d6ac7c2a4263`
+> * MUC APR 1.5%
+> * PAPAYA APR 300%
 
 > ## Account Mananger
 > * `0x18AC8Eae8f70D4f75f866493bdA4b39f09d62fBe`
+
+> ## Store Escrow
+> * `0x80a87c26115dcd0642c3dce9ad563aa5806140a3`
 
 # Testnet (Base sepolia)
 >## Asset
