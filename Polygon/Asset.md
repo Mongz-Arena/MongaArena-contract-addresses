@@ -33,7 +33,7 @@
 > * `0x18AC8Eae8f70D4f75f866493bdA4b39f09d62fBe`
 
 > ## Store Escrow
-> * `0x80a87c26115dcd0642c3dce9ad563aa5806140a3`
+> * `0x3918B140D769aA605B1A58F6237Dfe862A8c04bA`
 
 # Testnet (Base sepolia)
 >## Asset
