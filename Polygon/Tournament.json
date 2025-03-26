@@ -7,6 +7,14 @@
       "Escrow": {
         "0.9.0": "0x1dF4DB808FD43A867A087D38c01e804E3b3e6f81"
       }
+    },
+    "Othello": {
+      "Tournament": {
+        "0.9.0": "0x22fE3888BE91eDB130Ff15AdfF812E17c4125c67"
+      },
+      "Escrow": {
+        "0.9.0": "0x48F2309b800B0202695CF819c3fDAce4B19cb76c"
+      }
     }
   }
 }
